@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "eyJkb21haW4iOiJqdW5lLWFwcC52ZXJjZWwuYXBwIn0",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "June",
+    "iconUrl": "https://june-app.vercel.app/logo.png",
+    "splashImageUrl": "https://june-app.vercel.app/splash.png",
+    "splashBackgroundColor": "#f8e1f4",
+    "homeUrl": "https://june-app.vercel.app",
+    "webhookUrl": "https://june-app.vercel.app/api/webhook",
+    "subtitle": "The Mother of All Care",
+    "description": "Your Web3-powered postpartum wellness companion — built for mothers, governed by mothers. Daily check-ins, nourishment guides, gentle movement, and decentralized identity verification.",
+    "screenshotUrls": [
+      "https://june-app.vercel.app/screenshots/mood-checkin.png",
+      "https://june-app.vercel.app/screenshots/nourishment.png",
+      "https://june-app.vercel.app/screenshots/movement.png"
+    ],
+    "primaryCategory": "health-fitness",
+    "tags": ["wellness", "postpartum", "mental-health", "mothers", "web3"],
+    "heroImageUrl": "https://june-app.vercel.app/hero.png",
+    "tagline": "Heal, Grow & Thrive Together",
+    "ogTitle": "June - The Mother of All Care",
+    "ogDescription": "Your Web3-powered postpartum wellness companion — built for mothers, governed by mothers.",
+    "ogImageUrl": "https://june-app.vercel.app/og-image.png"
+  }
+}
